@@ -24,7 +24,7 @@ Prettier
 
 [Documentação Oficial do TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)
 
-[Curso Grátis TypeScript - Microsoft Learn:](https://bit.ly/31bf0UT)
+[Curso Grátis TypeScript - Microsoft Learn](https://bit.ly/31bf0UT)
 
 [TypeScript no Visual Studio Code](https://bit.ly/3qlg1Sj)
 
