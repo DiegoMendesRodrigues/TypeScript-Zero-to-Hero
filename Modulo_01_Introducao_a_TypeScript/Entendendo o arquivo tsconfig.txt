@@ -1,0 +1,16 @@
+Entendendo o arquivo tsconfig.json
+https://www.typescriptlang.org/pt/tsconfig/
+
+{
+	"compilerOptions": {
+		"lib": ["es2015"],		===> ES6 - Quais tipos de APIs o TS deve executar o código 
+		"module": "comomjs",	===> Qual sistema de módulo deve ser compilado
+		"outDir": "dist",		===> Onde os arquivos transpilados devem ser gerados
+		"sourceMap": true,		===>
+		"strict": true,			===> Deve ser estrito
+		"target": "es2015"		===> Qual tipo de versão do JS o TS será transpilado
+	},
+	"include": [
+		"src"					===> Pasta onde estão os arquivos TS
+	]
+}

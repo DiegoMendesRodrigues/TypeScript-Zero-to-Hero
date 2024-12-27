@@ -1,0 +1,28 @@
+{
+  "name": "modulo-2-tipos-basicos-em-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "aula1": "tsc aula01-annotation/typeAnnotation.ts && node aula01-annotation/typeAnnotation.js",
+    "aula2": "tsc aula02-tipo-boolean/typeBoolean.ts && node aula02-tipo-boolean/typeBoolean.js",
+    "aula3": "tsc aula03-number-bigint/numberBibint.ts && node aula03-number-bigint/numberBibint.js",
+    "aula4": "tsc aula04-string/usarString.ts && node aula04-string/usarString.js",
+    "aula5": "tsc aula05-array/usarArray.ts && node aula05-array/usarArray.js",
+    "aula6": "tsc aula06-tuplas/usarTuplas.ts && node aula06-tuplas/usarTuplas.js",
+    "aula7": "tsc aula07-enum/usarEnum.ts && node aula07-enum/usarEnum.js"
+  },
+  "keywords": [],
+  "author": "Diego Mendes Rodrigues",
+  "license": "MIT",
+  "description": "Curso de TypeScript",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "@typescript-eslint/parser": "^7.2.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "^3.4.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
